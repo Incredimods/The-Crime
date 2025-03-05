@@ -6,7 +6,7 @@ self.addEventListener('install', (e) => {
       '/The-Crime/asset-v1/app.js',
       '/The-Crime/js/index.min.js',
       '/The-Crime/js/main.min.js',
-      '/pwa-examples/a2hs/images/fox2.jpg',
+      '/The-Crime/css/style.min.css',
       '/pwa-examples/a2hs/images/fox3.jpg',
       '/pwa-examples/a2hs/images/fox4.jpg',
     ])),
