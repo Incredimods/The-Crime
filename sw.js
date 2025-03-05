@@ -1,10 +1,10 @@
-self.importScripts('data/games.js');
+self.importScripts('asset-v1/app.js');
 
 // Files to cache
-const cacheName = 'js13kPWA-v1';
+const cacheName = 'The-Crime';
 const appShellFiles = [
-  '/pwa-examples/js13kpwa/',
-  '/pwa-examples/js13kpwa/index.html',
+  'index.html',
+  'app.html',
   '/pwa-examples/js13kpwa/app.js',
   '/pwa-examples/js13kpwa/style.css',
   '/pwa-examples/js13kpwa/fonts/graduate.eot',
